@@ -9,6 +9,6 @@ Throughout this project, I focused on:
  -Clean UI with a structured layout
 Big thanks to CodSoft for the opportunity to apply my skills and learn more about creating engaging user experiences! 🙌
 
-Check out my work here:  https://lnkd.in/gQrqxS-8 
+Check out my work here: https://www.figma.com/design/iMEYz6wQmUOKUqYvIoz99H/Mobile-App-sign-in-_-Sign-up-page-(Community)?node-id=0-1&t=RmTctjXbzU6XnRa0-1 
 
 hashtag#CodSoft hashtag#UIUX hashtag#Figma hashtag#MobileDesign hashtag#Internship hashtag#UserExperience
